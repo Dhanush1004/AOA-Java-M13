@@ -29,14 +29,13 @@ If there is no solution to the problem  print  "Solution does not exist"
 
 5.Print the board if all queens are placed, else display “No solution exists.”   
 
+```
+Developed by: A.DHANUSH
+Register Number:  212222220010
+```
+
 ## Program:
 ```
-/*
-Program to implement Reverse a String
-Developed by: N.Navya Sree
-Register Number: 212223040138 
-*/
-
 import java.util.Scanner;
 
 public class NQueens {
