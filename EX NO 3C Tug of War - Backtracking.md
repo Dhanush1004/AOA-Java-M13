@@ -28,15 +28,13 @@ Constraints:
 
 5.If such a subset exists, return true; otherwise, return false.
 
+```
+Developed by: A.DHANUSH
+Register Number:  212222220010
+```
 
 ## Program:
 ```
-/*
-Program to implement Reverse a String
-Developed by: N.Navya Sree
-Register Number:  212223040138
-*/
-
 import java.util.Scanner;
 public class Solution {
     public boolean canPartition(int[] nums) {
