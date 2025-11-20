@@ -1,4 +1,3 @@
-
 # EX 3D Sudoku solver - Backtracking.
 ## DATE:15/09/25
 ## AIM:
@@ -20,13 +19,13 @@ For example:
 
 5.Continue until the board is completely filled and display the solved Sudoku. 
 
+```
+Developed by: A.DHANUSH
+Register Number:  212222220010
+```
+
 ## Program:
 ```
-/*
-Program to implement Reverse a String
-Developed by: N.Navya Sree
-Register Number: 212223040138 
-*/
 import java.util.Scanner;
 
 public class SudokuSolver {
