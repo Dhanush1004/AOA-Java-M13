@@ -1,4 +1,3 @@
-
 # EX 3B Rat in Maze- Backtracking 
 ## DATE:11/09/25
 ## AIM:
@@ -26,13 +25,14 @@ Explanation: One possible way is : left -> down -> left -> down -> right -> down
 5.If the destination is reached, return true; else return false.
    
 
+```
+Developed by: A.DHANUSH
+Register Number:  212222220010
+```
+
+
 ## Program:
 ```
-/*
-Program to implement Reverse a String
-Developed by: N.Navya Sree
-Register Number: 212223040138 
-*/
 import java.util.*;
 
 public class Main {
